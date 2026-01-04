@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 MCA student with interest in software development<br><br>Learning and applying core programming concepts<br><br>Building projects to strengthen problem-solving skills<br><br>Using GitHub to track academic work and personal projects<br><br>Focused on consistency, clean code, and continuous improvement
 
 
